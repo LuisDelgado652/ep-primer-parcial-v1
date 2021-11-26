@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <class name="user">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff00">
+            <properties>
+                <property name="email"><![CDATA[movil@facci.com]]></property>
+                <property name="password"><![CDATA[hello]]></property>
+            </properties>
+        </object>
+    </class>
+    <class name="item">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+            <properties>
+                <property name="type"><![CDATA[Balon_playa]]></property>
+                <property name="name"><![CDATA[Balón Mikasa Playa]]></property>
+                <property name="description"><![CDATA[MIKASA VLS300, CAMPO DE PLAYA - BOLA OFICIAL DE JUEGO DE LA FIVB, Azul/Amarillo]]></property>
+                <property name="price"><![CDATA[49,99]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff02">
+            <properties>
+                <property name="type"><![CDATA[Balon_sala]]></property>
+                <property name="name"><![CDATA[Balon Mikasa Salon]]></property>
+                <property name="description"><![CDATA[Mikasa V200W. CAMPO DE SALÓN - BOLA OFICIAL DE JUEGO DE LA FIVB, Azul/Amarillo ]]></property>
+                <property name="price"><![CDATA[49,99]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff03">
+            <properties>
+                <property name="type"><![CDATA[rodilleras]]></property>
+                <property name="name"><![CDATA[Rodilleras ASICS]]></property>
+                <property name="description"><![CDATA[ASICS Rodilleras de lycra unisex, goma 82.5% / nailon 15% / licra 2.5%, Sin látex.]]></property>
+                <property name="price"><![CDATA[29,00]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+            </properties>
+        </object>
+    </class>
+</data>
